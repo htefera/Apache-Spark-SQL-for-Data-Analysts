@@ -1,19 +1,16 @@
 # [Apache Spark SQL for Data Analysts](https://www.coursera.org/learn/apache-spark-sql-for-data-analysts/home/welcome)
 
-### About this Course
+### Tools and Technologys
 
-Tools and Technologys
 * Apache SQL
-* Databricks community edition
-* SQL 
-* Relational Databases
+* Databricks community edition 
+* Relational Databases and SQL
 * Datawarehouse and Delta lakes
 
 The following are the the two core objectives of the course
 
-* Ingest, transform, and query data to extract valuable insights.
-
 * Leverage existing SQL skills to start working with Apache Spark. 
+* Be able to use Spark SQL and Delta Lake to ingest, transform, and query data to extract valuable insights
 * 
 
 The course is organized as follows
