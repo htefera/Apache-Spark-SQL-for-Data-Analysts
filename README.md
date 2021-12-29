@@ -10,12 +10,24 @@ The following are the the two core objectives of the course
 
 * Leverage existing SQL skills to start working with Apache Spark. 
 
+The course is organized as follows
 
 [Week 1]()
 
+An introduction to this course including learning objectives, frequently asked questions, and a chance to get to know fellow classmates.
+
 [Week 2]()
 
+* Describe the characteristics that define big data.
+* Identify common struggles data analysts face when working with big data.
+* Describe tools data analysts use to work with big data
+
 [Week 3]()
+ 
+* Prepare the Databricks workspace for running data workflows
+* Use Databricks notebooks to run Spark SQL queries.
+* Use Databricks notebooks to visualize data.
+
 
 [Week 4]()
 
