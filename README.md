@@ -9,3 +9,22 @@ The following are the the two core objectives of the course
 * Ingest, transform, and query data to extract valuable insights.
 
 * Leverage existing SQL skills to start working with Apache Spark. 
+
+
+[Week 1]
+
+[Week 2]
+[Week 3]
+
+[Week 4]
+
+[Week 5]
+
+[Week 6]
+
+[Week 7]
+
+[Week 8]
+[Week 9]
+
+
