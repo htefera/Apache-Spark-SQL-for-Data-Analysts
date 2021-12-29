@@ -1,4 +1,4 @@
-# Apache Spark SQL for Data Analysts (https://www.coursera.org/learn/apache-spark-sql-for-data-analysts/home/welcome)
+[# Apache Spark SQL for Data Analysts] (https://www.coursera.org/learn/apache-spark-sql-for-data-analysts/home/welcome)
 
 ### About this Course
 
