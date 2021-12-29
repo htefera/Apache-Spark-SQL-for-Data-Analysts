@@ -11,9 +11,10 @@ The following are the the two core objectives of the course
 * Leverage existing SQL skills to start working with Apache Spark. 
 
 
-[Week 1]
+[Week 1]()
 
 [Week 2]
+
 [Week 3]
 
 [Week 4]
