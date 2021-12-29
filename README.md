@@ -13,7 +13,7 @@ The following are the the two core objectives of the course
 * Be able to use Spark SQL and Delta Lake to ingest, transform, and query data to extract valuable insights
 * 
 
-The course is organized as follows
+### Course Organization
 
 [Week 1]()
 
