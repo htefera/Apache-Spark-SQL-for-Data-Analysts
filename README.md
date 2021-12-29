@@ -30,15 +30,36 @@ An introduction to this course including learning objectives, frequently asked q
 
 
 [Week 4]()
+* Describe how Spark manages data workloads and optimizes queries.
+* Summarize how Apache Spark optimizes queries.
+* Locate evidence of Spark’s underlying optimization features in the Spark UI
 
 [Week 5]()
 
+* Use common design patterns for complex queries and creating tables and views.
+* Use Databricks to manage and modify nested data structures.
+* Use Databricks to prepare data for queries.
+
 [Week 6]()
 
-[Week 7]()
+* Practice advanced SQL functions to manipulate and present complex data.
+* Use Spark SQL higher-order functions to transform and aggregate data.
+* Practice a variety of aggregation and summary techniques to work with data
 
+[Week 7]()
+* Compare Data Warehouses and Data Lakes
+* Describe common challenges for Data Lakes and Data Warehouses
+* Define a Lakehouse
 [Week 8]()
 
+* Identify and correct records in a central data lake.
+* Clean and prepare data for and aggregated table
+* Write data to a delta table
+
 [Week 9]()
+
+* Use Databricks notebooks to run Spark SQL queries.
+* Practice advanced SQL functions to manipulate and present complex data.
+* Use Spark SQL higher-order functions to transform and aggregate data.
 
 
