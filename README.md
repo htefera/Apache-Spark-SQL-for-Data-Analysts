@@ -11,7 +11,6 @@ The following are the the two core objectives of the course
 
 * Leverage existing SQL skills to start working with Apache Spark. 
 * Be able to use Spark SQL and Delta Lake to ingest, transform, and query data to extract valuable insights
-* 
 
 ### Course Organization
 
@@ -67,4 +66,7 @@ An introduction to this course including learning objectives, frequently asked q
 * Practice advanced SQL functions to manipulate and present complex data.
 * Use Spark SQL higher-order functions to transform and aggregate data.
 
-
+### Program Execution
+* First, create an account on databricks community edition
+* Import the project into Databricks
+* Run the the notebooks
