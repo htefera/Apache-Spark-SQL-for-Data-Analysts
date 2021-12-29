@@ -26,6 +26,7 @@ The following are the the two core objectives of the course
 [Week 7]()
 
 [Week 8]()
+
 [Week 9]()
 
 
