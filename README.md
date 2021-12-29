@@ -24,25 +24,25 @@ An introduction to this course including learning objectives, frequently asked q
 * Identify common struggles data analysts face when working with big data.
 * Describe tools data analysts use to work with big data
 
-[Week 3]()
+[Week 3](https://github.com/htefera/Apache-Spark-SQL-for-Data-Analysts/tree/master/Module-3)
  
 * Prepare the Databricks workspace for running data workflows
 * Use Databricks notebooks to run Spark SQL queries.
 * Use Databricks notebooks to visualize data.
 
 
-[Week 4]()
+[Week 4](https://github.com/htefera/Apache-Spark-SQL-for-Data-Analysts/tree/master/Module-4)
 * Describe how Spark manages data workloads and optimizes queries.
 * Summarize how Apache Spark optimizes queries.
 * Locate evidence of Spark’s underlying optimization features in the Spark UI
 
-[Week 5]()
+[Week 5](https://github.com/htefera/Apache-Spark-SQL-for-Data-Analysts/tree/master/Module-5)
 
 * Use common design patterns for complex queries and creating tables and views.
 * Use Databricks to manage and modify nested data structures.
 * Use Databricks to prepare data for queries.
 
-[Week 6]()
+[Week 6](https://github.com/htefera/Apache-Spark-SQL-for-Data-Analysts/tree/master/Module-6)
 
 * Practice advanced SQL functions to manipulate and present complex data.
 * Use Spark SQL higher-order functions to transform and aggregate data.
@@ -54,13 +54,13 @@ An introduction to this course including learning objectives, frequently asked q
 * Define a Lakehouse
 
 
-[Week 8]()
+[Week 8](https://github.com/htefera/Apache-Spark-SQL-for-Data-Analysts/tree/master/Module-8)
 
 * Identify and correct records in a central data lake.
 * Clean and prepare data for and aggregated table
 * Write data to a delta table
 
-[Week 9]()
+[Week 9](https://github.com/htefera/Apache-Spark-SQL-for-Data-Analysts/tree/master/Module-9)
 
 * Use Databricks notebooks to run Spark SQL queries.
 * Practice advanced SQL functions to manipulate and present complex data.
