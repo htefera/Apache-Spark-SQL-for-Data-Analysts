@@ -50,6 +50,8 @@ An introduction to this course including learning objectives, frequently asked q
 * Compare Data Warehouses and Data Lakes
 * Describe common challenges for Data Lakes and Data Warehouses
 * Define a Lakehouse
+
+
 [Week 8]()
 
 * Identify and correct records in a central data lake.
