@@ -68,5 +68,7 @@ An introduction to this course including learning objectives, frequently asked q
 
 ### Program Execution
 * First, create an account on databricks community edition
-* Import the project into Databricks
-* Run the the notebooks
+* download the project and zip it
+* Import the zipped project into Databricks
+* Create a cluster
+* Run the the individual notebooks and have fun
