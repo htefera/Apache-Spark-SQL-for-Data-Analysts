@@ -3,16 +3,18 @@
 ### About this Course
 
 Tools and Technologys
-* Apache Spark
 * Apache SQL
-* Databricks
+* Databricks community edition
 * SQL 
+* Relational Databases
+* Datawarehouse and Delta lakes
 
 The following are the the two core objectives of the course
 
 * Ingest, transform, and query data to extract valuable insights.
 
 * Leverage existing SQL skills to start working with Apache Spark. 
+* 
 
 The course is organized as follows
 
